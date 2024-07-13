@@ -51,16 +51,16 @@ Results averaged over multiple runs.
 
 ## Results
 ### Variation in momentum coefficient
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/951682c1-9879-4533-8d90-b8ddd73e23ad", width="60%">
 </p>
 
 ### Variation in learning rate with or without momentum
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/42f56afe-e588-4aa6-87f5-f6cb59e2c49c", width="60%">
 </p>
 
 ### Effect of weight decay according to different datasets
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/233f1924-501e-422d-bb07-e0038722213e", width="60%">
 </p>
