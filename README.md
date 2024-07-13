@@ -51,10 +51,16 @@ Results averaged over multiple runs.
 
 ## Results
 ### Variation in momentum coefficient
-![Variation in momentum coefficient](https://github.com/user-attachments/assets/951682c1-9879-4533-8d90-b8ddd73e23ad)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/951682c1-9879-4533-8d90-b8ddd73e23ad", width="60%">
+</p>
 
 ### Variation in learning rate with or without momentum
-![learning rate](https://github.com/user-attachments/assets/c6f612de-b318-4faf-86b4-3e88c7888cd0)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/42f56afe-e588-4aa6-87f5-f6cb59e2c49c", width="60%">
+</p>
 
 ### Effect of weight decay according to different datasets
-![weight decay](https://github.com/user-attachments/assets/cbfbb722-dff5-45ed-8c42-8c43e7160c16)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/233f1924-501e-422d-bb07-e0038722213e", width="60%">
+</p>
