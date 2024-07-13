@@ -34,16 +34,19 @@ The performance of few-shot learning was compared using different momentum metho
 - **Platform**: Google Colab Pro with T4 GPUs
 - **Model**: CLIP ViT-B/32
 - **Default Configuration**:
-Learning rate: 1e-5
-Batch size: 4
-Momentum: 0.0
-Weight decay: 0.0
-Hyperparameter Variations:
+Learning rate: 1e-5 <br>
+Batch size: 4 <br>
+Momentum: 0.0 <br>
+Weight decay: 0.0 <br>
+
+- **Hyperparameter Variations**:
 Batch size: 2, 4, 8, 16, 32, 64
-Learning rate: 1e-4, 1e-5, 5e-5, 1e-6, 1e-7
+Learning rate: 1e-4 ~ 1e-7
 Momentum: 0.0, 0.8, 0.9, 0.95, 0.99
 Weight decay: 0.0, 1e-5
+
 </br>
+
 - **Training**:
 Early stopping if validation loss does not decrease for 5 consecutive epochs.
 Average of 20 epochs per experiment.
