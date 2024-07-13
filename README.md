@@ -38,9 +38,6 @@ Learning rate: 1e-4 ~ 1e-7 <br>
 Momentum: 0.0, 0.8, 0.9, 0.95, 0.99 <br>
 Weight decay: 0.0, 1e-5 <br>
 
-<br>
-<br>
-
 - **Training**:
 Early stopping if validation loss does not decrease for 5 consecutive epochs.
 Average of 20 epochs per experiment.
